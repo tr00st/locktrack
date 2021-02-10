@@ -1,0 +1,15 @@
+{
+  "name": "locktrack",
+  "version": "0.0.1",
+  "description": "A small screen lock and power event logging tool for Windows",
+  "main": "index.js",
+  "author": "James Cheese",
+  "email": "trust@tr00st.co.uk",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^11.2.0"
+  }
+}
